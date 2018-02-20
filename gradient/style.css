@@ -1,0 +1,68 @@
+body {
+  background: linear-gradient(lightblue, yellow);
+  font-family: 'Poppins', sans-serif;
+  border: 1rem solid;
+}
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+h1 {
+  font-size: 50px;
+}
+footer {
+
+  clear: both;
+
+  text-align: center;
+
+  padding: 2rem 0;
+
+  color: #f2f2f3;
+
+  background: #2D5F73;
+
+}
+
+footer a:hover {
+
+  color: #538EA6;
+}
+aside {
+float: right;
+width: 30%;
+padding: 5px;
+margin-top: 15px;
+}
+aside{
+
+  background: rgba(59, 167, 209, 0.85);
+}
+article {
+
+  padding: 20px;
+
+  margin-top: 20px;
+
+}
+
+section{
+
+  padding:10px;
+
+  margin-bottom: 5px;
+
+  background: #8AD591;
+
+
+
+}
+
+aside {
+
+  float: right;
+
+  width: 30%;
+
+  padding: 5px;
+
+  margin-top: 20px;
