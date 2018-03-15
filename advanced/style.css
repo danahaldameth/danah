@@ -1,4 +1,16 @@
-body {
+header {
+
+  background: linear-gradient(rgba(141, 153, 174, 0.4), rgba(141, 153, 174, 0.2)),
+
+  url(images/banner.jpg) no-repeat fixed;
+
+  padding-top: 45px;
+
+  background-size: 130%;
+
+  background-position: top center;
+
+}  body {
   background: linear-gradient(lightblue, yellow);
   font-family: 'Poppins', sans-serif;
   border: 1rem solid;
@@ -77,4 +89,16 @@ aside {
 .container-box {
   background: #D6B062;
   display: flex;
+}
+header {
+
+  background: linear-gradient(rgba(141, 153, 174, 0.4), rgba(141, 153, 174, 0.2)),
+
+  url(banner2.jpg) no-repeat fixed;
+
+  padding-top: 159px;
+
+  background-size:  97%;
+
+  background-position: top center;
 }
